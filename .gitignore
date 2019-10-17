@@ -1,1 +1,6 @@
-.ipynb_checkpoints
+*.x
+a.out
+*.o
+*.a
+*.so
+
